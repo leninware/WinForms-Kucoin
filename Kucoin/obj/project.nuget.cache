@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wqvNZwJMD+gSDFOlQnU42Q1DypAB8N2/CI/g+tS3BPOUZm6innFRccCKcfF8vPkObaedgKHKVILGr9yXM7MOSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sergey\\Desktop\\C#\\Kucoin\\Kucoin\\Kucoin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sergey\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
